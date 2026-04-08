@@ -5,8 +5,8 @@
 ![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-**Live Demo:** [Insert your Vercel Link Here]  
-**Video Walkthrough:** [Insert your Loom/YouTube Link Here]
+**Live Demo:** [https://interactive-calendar-three-xi.vercel.app/]  
+**Video Walkthrough:** [https://interactive-calendar-three-xi.vercel.app/]
 
 ## 🎯 Overview
 
