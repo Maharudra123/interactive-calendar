@@ -6,7 +6,7 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 **Live Demo:** [https://interactive-calendar-three-xi.vercel.app/]  
-**Video Walkthrough:** [https://interactive-calendar-three-xi.vercel.app/]
+**Video Walkthrough:** https://drive.google.com/file/d/16YbxDARFfP7RkyaESxHZ_OFPryFTf8t9/view?usp=sharing]
 
 ## 🎯 Overview
 
